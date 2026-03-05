@@ -2,3 +2,7 @@
 raw_data/
 data/
 *.zip
+
+.venv/
+__pycache__/
+.ipynb_checkpoints/
