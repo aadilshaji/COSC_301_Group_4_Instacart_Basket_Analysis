@@ -6,3 +6,9 @@ data/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+
+tabpy_log.log
+*.twbr
+instacart_dashboard.twbx
+*.twbr
+tabpy_log.log
